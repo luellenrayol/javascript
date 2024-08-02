@@ -1,0 +1,15 @@
+css
+body {
+   font-family: Arial, sans-serif;
+   background-color: #b0c4de;
+   color: #333;
+   margin: 1;
+   padding: 100px;
+}
+
+button {
+  background-color: pink;
+  font-family: sans-serif;
+  color: purple;
+  
+}
